@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  code: MyString
+  type: MyText
+  name: MyText
+  description: MyText
+  keyword: MyText
+  version: MyString
+  sourcecode: MyString
+  artifact: MyText
+
+two:
+  code: MyString
+  type: MyText
+  name: MyText
+  description: MyText
+  keyword: MyText
+  version: MyString
+  sourcecode: MyString
+  artifact: MyText
